@@ -1,16 +1,16 @@
 {
   "twitter_api": {
-    "consumer_key":        "",
-    "consumer_secret":     "",
-    "access_token_key":    "",
-    "access_token_secret": ""
+    "consumer_key":        "rhDhQtR0JPV8Pn5DKLghVlQ5T",
+    "consumer_secret":     "pYZUMSoyshUhjVMoOfP5Cl1IqYEXWmT5qkI1Yw4buGjv40GHPs",
+    "access_token_key":    "935986571857182720-mBzPoA5ongwD12oavphDpu5SIVi3RYt",
+    "access_token_secret": "XqKxFsTg6Qfoc9Kk2Qpx4sQkzJZTt1vCYF0Aq2cjly9p5"
   },
   "database": {
     "url": "mongodb://localhost",
     "collection": "users"
   },
   "bot_parameters": {
-    "query": "TODO: See 'Query Operators' in https://dev.twitter.com/rest/public/search",
+    "query": "q: 'Hello World!', count: 100 ",
     "lang": "en",
     "replyOnceEveryXMinutes": 15,
     "replyToTweetsAtLeastXMinutesOld": 5
