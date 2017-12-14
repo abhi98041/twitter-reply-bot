@@ -1,12 +1,12 @@
 {
   "twitter_api": {
-    "consumer_key":        "TODO: Set according to https://apps.twitter.com -> create app -> tab 'Keys and Access Tokens' -> Application Settings -> Consumer Key (API Key)",
-    "consumer_secret":     "TODO: Set according to https://apps.twitter.com -> create app -> tab 'Keys and Access Tokens' -> Application Settings -> Consumer Secret (API Secret)",
-    "access_token_key":    "TODO: Set according to https://apps.twitter.com -> create app -> tab 'Keys and Access Tokens' -> Your Access Token -> Access Token",
-    "access_token_secret": "TODO: Set according to https://apps.twitter.com -> create app -> tab 'Keys and Access Tokens' -> Your Access Token -> Access Token Secret"
+    "consumer_key":        "",
+    "consumer_secret":     "",
+    "access_token_key":    "",
+    "access_token_secret": ""
   },
   "database": {
-    "url": "mongodb://... TODO: See http://mongodb.github.io/node-mongodb-native/driver-articles/mongoclient.html#the-url-connection-format",
+    "url": "mongodb://localhost",
     "collection": "users"
   },
   "bot_parameters": {
