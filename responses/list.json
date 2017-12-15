@@ -1,14 +1,18 @@
 [
     {
-        "text": "[user] How about some red wine?",
-        "image": "001.jpg"
+        "text": "[user] I have recently shopped from here. you can have a look. https://exsyfashion.com/products/loose-lantern-sleeve-dress?aff=9",
+        "image": "https://cdn.shopify.com/s/files/1/2558/0890/products/Loose_Lantern_Sleeve_Dress.jpg"
     },
     {
-        "text": "[user] I assume just water wouldn't do it. ;)",
-        "image": "002.jpg"
+        "text": "[user] Have a look at this. Recently found it hope you will also like it. https://exsyfashion.com/products/trendy-assortment-of-rings?aff=9",
+        "image": "https://cdn.shopify.com/s/files/1/2558/0890/products/product-image-387403221.jpg"
     },
     {
-        "text": "[user] ...at the beach maybe?! :)",
-        "image": "003.jpg"
+        "text": "[user] I recently found them. You may like it. https://exsyfashion.com/products/knitted-off-shoulder-bodycon-dress?aff=9",
+        "image": "https://cdn.shopify.com/s/files/1/2558/0890/products/product-image-278543702.jpg"
+    },
+      {
+        "text": "[user] Hey you can check them. They are super good for latest trends. https://exsyfashion.com/products/cute-summer-off-shoulder-top?aff=9",
+        "image": "https://cdn.shopify.com/s/files/1/2558/0890/products/product-image-261435945.jpg"
     }
 ]
