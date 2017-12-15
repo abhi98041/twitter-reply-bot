@@ -1,16 +1,22 @@
 {
   "twitter_api": {
-    "consumer_key":        "rhDhQtR0JPV8Pn5DKLghVlQ5T",
-    "consumer_secret":     "pYZUMSoyshUhjVMoOfP5Cl1IqYEXWmT5qkI1Yw4buGjv40GHPs",
-    "access_token_key":    "935986571857182720-mBzPoA5ongwD12oavphDpu5SIVi3RYt",
-    "access_token_secret": "XqKxFsTg6Qfoc9Kk2Qpx4sQkzJZTt1vCYF0Aq2cjly9p5"
+    "consumer_key":        "eY0dQzKLZDDkwA3svKfuDxK1Y",
+    "consumer_secret":     "xKaDOYxCXrhy377gA0675nMfLFYfvPKaKXtkxnMZDet0Obo7D2",
+    "access_token_key":    "105023906-6fTTdKdYl0kySlr7ptymdSFHiG1cmT09tCCnePga",
+    "access_token_secret": "jjW9IimP5q6hfeOFdig36nkKloozVxBusnSAEaEqK7uW7"
   },
   "database": {
     "url": "mongodb://localhost",
     "collection": "users"
   },
   "bot_parameters": {
-    "query": "q: 'Hello World!', count: 100 ",
+    "query": "Looking for good fashion destination",
+    "lang": "en",
+    "replyOnceEveryXMinutes": 15,
+    "replyToTweetsAtLeastXMinutesOld": 5
+  }
+    "bot_parameters1": {
+    "query": "Idea for trending stores",
     "lang": "en",
     "replyOnceEveryXMinutes": 15,
     "replyToTweetsAtLeastXMinutesOld": 5
