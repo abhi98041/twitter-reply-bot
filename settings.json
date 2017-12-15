@@ -10,13 +10,7 @@
     "collection": "users"
   },
   "bot_parameters": {
-    "query": "Looking for good fashion destination",
-    "lang": "en",
-    "replyOnceEveryXMinutes": 15,
-    "replyToTweetsAtLeastXMinutesOld": 5
-  }
-    "bot_parameters1": {
-    "query": "Idea for trending stores",
+    "query": "Looking for good fashion destination, Idea for trending stores",
     "lang": "en",
     "replyOnceEveryXMinutes": 15,
     "replyToTweetsAtLeastXMinutesOld": 5
