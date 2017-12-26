@@ -1,16 +1,16 @@
 {
   "twitter_api": {
-    "consumer_key":        "eY0dQzKLZDDkwA3svKfuDxK1Y",
-    "consumer_secret":     "xKaDOYxCXrhy377gA0675nMfLFYfvPKaKXtkxnMZDet0Obo7D2",
-    "access_token_key":    "105023906-6fTTdKdYl0kySlr7ptymdSFHiG1cmT09tCCnePga",
-    "access_token_secret": "jjW9IimP5q6hfeOFdig36nkKloozVxBusnSAEaEqK7uW7"
+    "consumer_key":        "m7WKJv9t9NFeDnJtoYGqBxP10",
+    "consumer_secret":     "leZPzoT63NR4ITFEEA2ghJvUQaGEfd2jCTTgLINVcZM4U4rZdy",
+    "access_token_key":    "943657200148344832-nCNDe55lpo2WzMA3GMuRkHQKO6Dadz7",
+    "access_token_secret": "PiY2d2lvSWzgw4FxiPcA9TNOjR7wLPHREG0XpHEsGfbR5"
   },
   "database": {
     "url": "mongodb://localhost",
     "collection": "users"
   },
   "bot_parameters": {
-    "query": "Looking for good fashion destination, Idea for trending stores",
+    "query": "roof leak my",
     "lang": "en",
     "replyOnceEveryXMinutes": 15,
     "replyToTweetsAtLeastXMinutesOld": 5
