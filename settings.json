@@ -10,9 +10,9 @@
     "collection": "users"
   },
   "bot_parameters": {
-    "query": "roof leak my",
+    "query": "remodel kitchen my",
     "lang": "en",
-    "replyOnceEveryXMinutes": 15,
-    "replyToTweetsAtLeastXMinutesOld": 5
+    "replyOnceEveryXMinutes": 1,
+    "replyToTweetsAtLeastXMinutesOld": 1
   }
 }
